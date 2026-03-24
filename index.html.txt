@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Karthick CDN Project</title>
+</head>
+<body>
+  <h1>🚀 Global CDN Website</h1>
+  <p>Deployed using AWS + Cloudflare</p>
+</body>
+</html>
